@@ -1,0 +1,12 @@
+.mt-2{
+    margin-top: 0.2rem !important;
+}
+.form-product{
+    margin-top: 5px !important;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.alert{
+    margin-top: 10px !important;
+}
